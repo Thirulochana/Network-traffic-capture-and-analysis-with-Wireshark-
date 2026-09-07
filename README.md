@@ -36,6 +36,12 @@ Wireshark Packet Capture and Filter Usage
 
 ## OUTPUT:
 Captured Packets with Protocol Analysis and Detailed Packet Info
+<img width="1600" height="900" alt="d91" src="https://github.com/user-attachments/assets/57bdaf2f-44ff-446b-9147-6dc6b2cbbfd5" />
+<img width="1600" height="900" alt="d92" src="https://github.com/user-attachments/assets/1679a966-483b-4d51-b0bc-da34885df91d" />
+<img width="1600" height="900" alt="d93" src="https://github.com/user-attachments/assets/a46366eb-075c-4595-9950-cbfd986ddcb5" />
+<img width="1600" height="900" alt="d94" src="https://github.com/user-attachments/assets/007a0dfa-26dd-48fe-bc08-88ffdf8a91d8" />
+<img width="1600" height="900" alt="d95" src="https://github.com/user-attachments/assets/d0411018-0f13-42b8-abdb-ab694f39473c" />
+
 
 ## RESULT:
 Network traffic was successfully captured and analyzed using Wireshark.
